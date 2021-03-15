@@ -36,6 +36,7 @@ include_core_redream
 # --- Genesis emulator cores ---
 include_core_smsplus
 include_core_genesis_plus_gx
+include_core_genesis_plus_gx_wide
 include_core_picodrive
 include_core_blastem
 
@@ -252,6 +253,7 @@ include_core_uzem
 # --- Miscellaneous cores ---
 include_core_video_processor
 include_core_gme
+include_core_potator
 include_core_pocketcdg
 include_core_crocods
 include_core_cap32
