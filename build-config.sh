@@ -45,7 +45,6 @@ include_core_gearsystem
 
 # --- Arcade emulator cores ---
 include_core_fbneo
-include_core_fbalpha
 include_core_fbalpha2012
 include_core_fbalpha2012_cps1
 include_core_fbalpha2012_cps2
@@ -270,6 +269,8 @@ include_core_squirreljme
 include_core_minivmac
 include_core_oberon
 include_core_x1
+include_core_galaxy
+
 
 # -------------------------------------------------------------------------------------------------
 # Devkits
